@@ -1,0 +1,1 @@
+### My first Project with Django made with Success! 🥳🥳🥳
